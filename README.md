@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Noah Phipps
+- 👀 I’m a final year Physics student completing an integrated masters degree
+- 🌱 Experienced in C++ and Python, but a keen learner and looking forward to using more languages
+- 💞️ I’m currently looking for software development graduate/junior roles
+- 📫 Email me at nhphipps3@outlook.com, or connect on LinkedIn: https://www.linkedin.com/in/noah-phipps/
